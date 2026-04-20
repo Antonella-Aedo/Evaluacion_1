@@ -1,0 +1,60 @@
+EstablecimientoGlosa,Causa,NumTotal,NumTotal,NumTotal
+,,mean,median,sum
+Hospital Dr. Gustavo Fricke,Bronquitis/Bronquiolitis aguda,176.59602649006624,184.0,26666.0
+Hospital Dr. Gustavo Fricke,Bronquitis/Bronquiolitis agudaa,287.0,287.0,287.0
+Hospital Dr. Gustavo Fricke,COVID-19 sospecha/confirmada,173.28481012658227,180.5,27379.0
+Hospital Dr. Gustavo Fricke,Crisis asmática,160.11764705882354,138.0,24498.0
+Hospital Dr. Gustavo Fricke,Infeccion respirat0ria agudaa alta,248.5,248.5,497.0
+Hospital Dr. Gustavo Fricke,Infeccion respiratoria aguda alta,155.63636363636363,137.0,23968.0
+Hospital Dr. Gustavo Fricke,Influenza y neumonia,186.94838709677418,167.0,28977.0
+Hospital Dr. Gustavo Fricke,Insuficiencia respirat0ria agudaa,89.5,89.5,179.0
+Hospital Dr. Gustavo Fricke,Insuficiencia respiratoria aguda,132.20261437908496,123.0,20227.0
+Hospital Dr. Gustavo Fricke  ,Bronquitis/Bronquiolitis aguda,217.0,217.0,434.0
+Hospital Dr. Gustavo Fricke  ,Crisis asmática,146.5,151.0,586.0
+Hospital Dr. Gustavo Fricke  ,Infeccion respiratoria aguda alta,161.0,161.0,161.0
+Hospital Regional de Arica Dr. Juan Noe,Bronquitis/Bronquiolitis aguda,173.73076923076923,177.0,27102.0
+Hospital Regional de Arica Dr. Juan Noe,Bronquitis/Bronquiolitis agudaa,129.0,129.0,129.0
+Hospital Regional de Arica Dr. Juan Noe,COVID-19 sospecha/confirmada,171.7051282051282,168.0,26786.0
+Hospital Regional de Arica Dr. Juan Noe,Crisis asmática,147.3987341772152,133.0,23289.0
+Hospital Regional de Arica Dr. Juan Noe,Infeccion respiratoria aguda alta,137.25324675324674,133.5,21137.0
+Hospital Regional de Arica Dr. Juan Noe,Influenza y neumonia,180.74675324675326,175.0,27835.0
+Hospital Regional de Arica Dr. Juan Noe,Insuficiencia respirat0ria agudaa,162.66666666666666,108.0,488.0
+Hospital Regional de Arica Dr. Juan Noe,Insuficiencia respiratoria aguda,143.1437908496732,139.0,21901.0
+Hospital Regional de Arica Dr. Juan Noe  ,COVID-19 sospecha/confirmada,223.0,223.0,223.0
+Hospital Regional de Arica Dr. Juan Noe  ,Infeccion respiratoria aguda alta,196.0,196.0,196.0
+Hospital Regional de Arica Dr. Juan Noe  ,Influenza y neumonia,128.5,128.5,257.0
+Hospital Regional de Temuco,Bronquitis/Bronquiolitis aguda,169.81645569620252,168.0,26831.0
+Hospital Regional de Temuco,Bronquitis/Bronquiolitis agudaa,112.0,112.0,112.0
+Hospital Regional de Temuco,COVID-19 sospecha/confirmada,174.12738853503186,176.0,27338.0
+Hospital Regional de Temuco,Crisis asmática,141.16339869281046,144.0,21598.0
+Hospital Regional de Temuco,Infeccion respirat0ria agudaa alta,197.0,197.0,197.0
+Hospital Regional de Temuco,Infeccion respiratoria aguda alta,137.12987012987014,128.0,21118.0
+Hospital Regional de Temuco,Influenza y neumonia,169.5,172.5,26442.0
+Hospital Regional de Temuco,Insuficiencia respirat0ria agudaa,97.0,97.0,97.0
+Hospital Regional de Temuco,Insuficiencia respiratoria aguda,140.65584415584416,135.0,21661.0
+Hospital Regional de Temuco  ,Crisis asmática,59.0,59.0,59.0
+Hospital Regional de Temuco  ,Infeccion respiratoria aguda alta,166.0,166.0,166.0
+Hospital Regional de Temuco  ,Insuficiencia respiratoria aguda,182.0,182.0,182.0
+SAPU Pudahuel Sur,Bronquitis/Bronquiolitis aguda,144.9225806451613,121.0,22463.0
+SAPU Pudahuel Sur,Bronquitis/Bronquiolitis agudaa,138.0,138.0,138.0
+SAPU Pudahuel Sur,COVID-19 sospecha/confirmada,147.0258064516129,147.0,22789.0
+SAPU Pudahuel Sur,Crisis asmática,121.50955414012739,127.0,19077.0
+SAPU Pudahuel Sur,Infeccion respirat0ria agudaa alta,169.0,152.0,507.0
+SAPU Pudahuel Sur,Infeccion respiratoria aguda alta,122.52941176470588,110.0,18747.0
+SAPU Pudahuel Sur,Influenza y neumonia,146.22929936305732,138.0,22958.0
+SAPU Pudahuel Sur,Insuficiencia respiratoria aguda,108.171974522293,108.0,16983.0
+SAPU Pudahuel Sur  ,Bronquitis/Bronquiolitis aguda,189.0,189.0,189.0
+SAPU Pudahuel Sur  ,COVID-19 sospecha/confirmada,94.0,94.0,94.0
+SAPU Pudahuel Sur  ,Infeccion respiratoria aguda alta,178.0,178.0,178.0
+SAR La Reina,Bronquitis/Bronquiolitis aguda,131.93506493506493,126.0,20318.0
+SAR La Reina,Bronquitis/Bronquiolitis agudaa,80.0,80.0,160.0
+SAR La Reina,COVID-19 sospecha/confirmada,138.75483870967741,138.0,21507.0
+SAR La Reina,Crisis asmática,115.6103896103896,114.0,17804.0
+SAR La Reina,Infeccion respirat0ria agudaa alta,164.0,164.0,164.0
+SAR La Reina,Infeccion respiratoria aguda alta,118.34640522875817,121.0,18107.0
+SAR La Reina,Influenza y neumonia,166.89032258064515,130.0,25868.0
+SAR La Reina,Insuficiencia respirat0ria agudaa,87.0,87.0,87.0
+SAR La Reina,Insuficiencia respiratoria aguda,116.28387096774193,110.0,18024.0
+SAR La Reina  ,Bronquitis/Bronquiolitis aguda,119.0,119.0,119.0
+SAR La Reina  ,Crisis asmática,165.0,165.0,165.0
+SAR La Reina  ,Infeccion respirat0ria agudaa alta,206.0,206.0,206.0

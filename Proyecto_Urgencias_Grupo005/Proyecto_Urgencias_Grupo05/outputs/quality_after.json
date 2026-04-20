@@ -1,0 +1,179 @@
+{
+  "n_rows": 4687,
+  "n_columns": 34,
+  "n_duplicates": 0,
+  "missing_by_column": [
+    {
+      "column": "DependenciaAdministrativa",
+      "missing_count": 26,
+      "missing_pct": 0.5547258374226584
+    },
+    {
+      "column": "NivelComplejidad",
+      "missing_count": 24,
+      "missing_pct": 0.512054619159377
+    },
+    {
+      "column": "Latitud",
+      "missing_count": 19,
+      "missing_pct": 0.40537657350117345
+    },
+    {
+      "column": "CostoAtencionCLP",
+      "missing_count": 18,
+      "missing_pct": 0.3840409643695327
+    },
+    {
+      "column": "PrioridadTriage",
+      "missing_count": 18,
+      "missing_pct": 0.3840409643695327
+    },
+    {
+      "column": "TipoUrgencia",
+      "missing_count": 14,
+      "missing_pct": 0.2986985278429699
+    },
+    {
+      "column": "Longitud",
+      "missing_count": 11,
+      "missing_pct": 0.2346917004480478
+    },
+    {
+      "column": "Num5a14Anios",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Num15a64Anios",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Num65oMas",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "EstablecimientoCodigo",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "NumMenor1Anio",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "SexoPaciente",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto_year",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto_month",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto_day",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto_weekday",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Num1a4Anios",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "OrdenCausa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "NumTotal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Causa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "EstablecimientoGlosa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "SemanaEstadistica",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Anio",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "NivelAtencion",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "TipoEstablecimiento",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "ServicioSaludGlosa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "ServicioSaludCodigo",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "ComunaGlosa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "ComunaCodigo",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "RegionGlosa",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "RegionCodigo",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "FechaAtencionTexto_hour",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    }
+  ],
+  "dtype_report": null,
+  "range_checks": {}
+}
