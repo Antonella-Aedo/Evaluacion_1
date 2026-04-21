@@ -22,7 +22,8 @@ python -m pip install -r requirements.txt
 Ejecutar el notebook template
 
 ```bash
-jupyter notebook notebooks/00_cleaning_template.ipynb
+analisis_datos_crudos.ipynb
+Analisis_Integridad_y_Visualizacion_Urgencias.ipynb
 ```
 
 Buenas prácticas
