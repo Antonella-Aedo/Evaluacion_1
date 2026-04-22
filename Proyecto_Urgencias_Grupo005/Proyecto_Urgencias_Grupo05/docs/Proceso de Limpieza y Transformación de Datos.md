@@ -1,4 +1,4 @@
-# NFORME DE DIAGNÓSTICO: DATOS Limpio y procesados (ENTREGABLE 1)
+# INFORME DE DIAGNÓSTICO: DATOS Limpio y procesados (ENTREGABLE 1)
 
 Esta base de datos es un registro de gestión epidemiológica y financiera de atenciones de urgencia en Chile. Su objetivo principal es monitorear la demanda de salud, específicamente enfocada en enfermedades respiratorias, a través de la red asistencial.
 
